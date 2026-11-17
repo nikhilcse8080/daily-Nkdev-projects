@@ -9,3 +9,4 @@ Entries live in `devlog/YYYY/MM/YYYY-MM-DD.md`.
 | Date | Topic |
 |------|-------|
 | 2026-11-16 | [Debounced search input (vanilla JS)](2026/11/2026-11-16.md) |
+| 2026-11-17 | [Race-safe stock deduction with PDO transactions](2026/11/2026-11-17.md) |
