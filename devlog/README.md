@@ -11,3 +11,4 @@ Entries live in `devlog/YYYY/MM/YYYY-MM-DD.md`.
 | 2026-11-16 | [Debounced search input (vanilla JS)](2026/11/2026-11-16.md) |
 | 2026-11-17 | [Race-safe stock deduction with PDO transactions](2026/11/2026-11-17.md) |
 | 2026-11-18 | [GST invoice totals with Decimal rounding](2026/11/2026-11-18.md) |
+| 2026-11-19 | [Nightly MySQL backups with cron and 7-day rotation](2026/11/2026-11-19.md) |
