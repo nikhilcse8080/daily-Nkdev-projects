@@ -13,3 +13,4 @@ Entries live in `devlog/YYYY/MM/YYYY-MM-DD.md`.
 | 2026-11-18 | [GST invoice totals with Decimal rounding](2026/11/2026-11-18.md) |
 | 2026-11-19 | [Nightly MySQL backups with cron and 7-day rotation](2026/11/2026-11-19.md) |
 | 2026-11-24 | [Low-stock reorder report with CTEs](2026/11/2026-11-24.md) |
+| 2026-11-25 | [Parts catalog search API with a Next.js route handler](2026/11/2026-11-25.md) |
