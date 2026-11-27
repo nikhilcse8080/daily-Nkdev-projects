@@ -15,3 +15,4 @@ Entries live in `devlog/YYYY/MM/YYYY-MM-DD.md`.
 | 2026-11-24 | [Low-stock reorder report with CTEs](2026/11/2026-11-24.md) |
 | 2026-11-25 | [Parts catalog search API with a Next.js route handler](2026/11/2026-11-25.md) |
 | 2026-11-26 | [Billing cart state with ChangeNotifier in paise](2026/11/2026-11-26.md) |
+| 2026-11-27 | [Find the commit that broke GST totals with git bisect run](2026/11/2026-11-27.md) |
